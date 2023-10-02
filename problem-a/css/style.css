@@ -1,0 +1,17 @@
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+    background-color: tan;
+}
+
+p{
+    line-height: 1.5;
+}
+
+.fit-picture{
+    max-height: 400px;
+}
+
+.best-reason {
+    color: rgb(0, 341, 2200);
+}
